@@ -1,0 +1,37 @@
+= Task SSH
+
+> Branch: `ssh` +
+> Fenrir ID: `ssh`
+
+Your solution must be located at `ssh`:
+
+----
+icon:folder[] ...
+├─ icon:folder[] ssh
+│  ├─ icon:folder[] part-1
+│  │  ├─ icon:file-text[] setup.sh
+│  │  └─ icon:file-text[] part-1.sh
+│  ├─ icon:folder[] part-2
+│  │  ├─ icon:file-text[] setup.sh
+│  │  └─ icon:file-text[] part-2.sh
+│  └─ icon:folder[] part-3
+│     └─ icon:file-text[] config
+└─ icon:folder[] .git
+----
+
+== Tasks
+
+* (12) https://github.com/devtools-course/task-ssh/tree/main/part-1/README.md[SSH-1. Set up a connection]
+* (9) https://github.com/devtools-course/task-ssh/tree/main/part-2/README.md[SSH-2. Transferring files]
+* (9) https://github.com/devtools-course/task-ssh/tree/main/part-3/README.md[SSH-3. SSH config]
+
+== Copyright
+
+pass:[<i class="fab fa-creative-commons"></i>]
+pass:[<i class="fab fa-creative-commons-by"></i>]
+pass:[<i class="fab fa-creative-commons-nc"></i>]
+pass:[<i class="fab fa-creative-commons-sa"></i>]
+
+The project is licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+(C) 2026-present *Iwan Kalinin* <mailto:koefic.cien@gmail.com[koefic.cien@gmail.com]>
