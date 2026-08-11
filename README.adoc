@@ -1,10 +1,12 @@
 = Task SSH
+:icons: font
 
 > Branch: `ssh` +
 > Fenrir ID: `ssh`
 
 Your solution must be located at `ssh`:
 
+[,text,subs="+macros"]
 ----
 icon:folder[] ...
 ├─ icon:folder[] ssh
